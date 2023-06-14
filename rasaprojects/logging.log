@@ -1,0 +1,210 @@
+21:39:34,352 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+21:39:34,374 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+21:39:34,375 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+22:02:21,267 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+22:02:21,287 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+22:02:21,287 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+22:04:17,996 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+22:04:18,6 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+22:04:18,6 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+22:10:07,242 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+22:10:07,250 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+22:10:07,251 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+22:40:10,880 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+22:40:10,889 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+22:40:10,889 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+22:41:01,880 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+22:41:01,888 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+22:41:01,888 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+22:51:37,369 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+22:51:37,380 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+22:51:37,381 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+23:14:05,219 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:14:05,286 root INFO Encoding symptom head ache
+23:14:06,676 root INFO Flagged 1 potential symptom matches
+23:14:06,980 root INFO Diagnosing user with Coronary artery dissection heart artery tear
+23:14:06,984 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:14:33,90 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:14:33,91 root INFO Encoding symptom stomach itching
+23:14:33,181 root INFO Flagged 2 potential symptom matches
+23:14:33,245 root INFO Diagnosing user with Finger swelling
+23:14:33,247 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:15:51,765 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:15:51,766 root INFO Encoding symptom chest pain
+23:15:51,826 root INFO Flagged 7 potential symptom matches
+23:15:51,919 root INFO Unable to find a diagnosis, the closest match was Mittelschmerz ovulation pain at 0.3779644730092272
+23:15:51,920 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:16:15,756 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:16:15,756 root INFO Encoding symptom blood
+23:16:15,834 root INFO Flagged 0 potential symptom matches
+23:16:15,899 root INFO Unable to find a diagnosis, the closest match was Cholecystitis inflammation of the gallbladder at 0.0
+23:16:15,900 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:16:35,489 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:16:35,490 root INFO Encoding symptom sweating
+23:16:35,535 root INFO Flagged 0 potential symptom matches
+23:16:35,605 root INFO Unable to find a diagnosis, the closest match was Cholecystitis inflammation of the gallbladder at 0.0
+23:16:35,605 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:16:52,117 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:16:52,117 root INFO Encoding symptom temparature
+23:16:52,158 root INFO Flagged 0 potential symptom matches
+23:16:52,223 root INFO Unable to find a diagnosis, the closest match was Cholecystitis inflammation of the gallbladder at 0.0
+23:16:52,224 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:17:14,275 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:17:14,275 root INFO Encoding symptom blurry vision
+23:17:14,331 root INFO Flagged 0 potential symptom matches
+23:17:14,397 root INFO Unable to find a diagnosis, the closest match was Cholecystitis inflammation of the gallbladder at 0.0
+23:17:14,399 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:17:41,326 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:17:41,326 root INFO Encoding symptom mouth pain
+23:17:41,559 root INFO Flagged 4 potential symptom matches
+23:17:41,624 root INFO Unable to find a diagnosis, the closest match was Coronary artery dissection heart artery tear at 0.5
+23:17:41,625 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:18:15,617 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:18:15,617 root INFO Encoding symptom calf pain
+23:18:15,651 root INFO Flagged 7 potential symptom matches
+23:18:15,713 root INFO Unable to find a diagnosis, the closest match was Mittelschmerz ovulation pain at 0.3779644730092272
+23:18:15,713 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:18:44,365 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:18:44,365 root INFO Encoding symptom headache
+23:18:44,398 root INFO Flagged 1 potential symptom matches
+23:18:44,465 root INFO Diagnosing user with Posterior inferior cerebellar artery syndrome stroke syndrome
+23:18:44,465 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:20:18,523 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:20:18,524 root INFO Encoding symptom pelvic pain](symptom
+23:20:18,575 root INFO Flagged 0 potential symptom matches
+23:20:18,660 root INFO Unable to find a diagnosis, the closest match was Cholecystitis inflammation of the gallbladder at 0.0
+23:20:18,660 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:20:35,160 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:20:35,161 root INFO Encoding symptom pelvic pain
+23:20:35,189 root INFO Flagged 13 potential symptom matches
+23:20:35,254 root INFO Unable to find a diagnosis, the closest match was Ovarian torsion twisting of the ovary at 0.39223227027636803
+23:20:35,255 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:22:20,81 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:22:20,81 root INFO Encoding symptom shivering
+23:22:20,124 root INFO Flagged 0 potential symptom matches
+23:22:20,184 root INFO Unable to find a diagnosis, the closest match was Cholecystitis inflammation of the gallbladder at 0.0
+23:22:20,185 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:23:52,304 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:23:52,304 root INFO Encoding symptom confusion and headache
+23:23:52,353 root INFO Flagged 2 potential symptom matches
+23:23:52,418 root INFO Diagnosing user with Brain arteriovenous malformation blood vessel abnormality in the brain, AVM Arteriovenous malformation of brain
+23:23:52,418 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+23:24:19,835 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+23:24:19,836 root INFO Encoding symptom shoulder ache or pain
+23:24:19,879 root INFO Flagged 9 potential symptom matches
+23:24:19,935 root INFO Diagnosing user with Rotator cuff syndrome shoulder injury
+23:24:19,936 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:27:26,919 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:27:26,939 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+20:27:26,939 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:30:49,594 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:30:49,630 root INFO Encoding symptom ankle pain
+20:30:50,546 root INFO Flagged 6 potential symptom matches
+20:30:50,700 root INFO Unable to find a diagnosis, the closest match was Pulmonary hypertension high blood pressure in the lungs at 0.4082482904638631
+20:30:50,702 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:33:29,67 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:33:29,69 root INFO Encoding symptom groin pain
+20:33:29,88 root INFO Encoding symptom leg numbness
+20:33:29,122 root INFO Flagged 4 potential symptom matches
+20:33:29,140 root INFO Flagged 1 potential symptom matches
+20:33:29,199 root INFO Unable to find a diagnosis, the closest match was Empyema collection of pus in chest at 0.4472135954999579
+20:33:29,200 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:34:37,568 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:34:37,568 root INFO Encoding symptom vaginal itching
+20:34:37,584 root INFO Encoding symptom pain or soreness of breast
+20:34:37,610 root INFO Flagged 1 potential symptom matches
+20:34:37,626 root INFO Flagged 3 potential symptom matches
+20:34:37,684 root INFO Diagnosing user with Breast fibroadenoma benign breast lumps
+20:34:37,685 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:05:10,947 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+19:05:10,955 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+19:05:10,955 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+19:58:13,958 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:58:14,16 root INFO Encoding symptom muscle spasm
+19:58:15,313 root INFO Flagged 2 potential symptom matches
+19:58:15,567 root INFO Diagnosing user with Vitamin D deficiency
+19:58:15,570 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:59:14,229 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:59:14,230 root INFO Encoding symptom painful gums
+19:59:14,439 root INFO Flagged 2 potential symptom matches
+19:59:14,506 root INFO Diagnosing user with Gingivitis inflammation of the gums
+19:59:14,507 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:59:53,818 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:59:53,819 root INFO Encoding symptom vomiting
+19:59:53,882 root INFO Flagged 1 potential symptom matches
+19:59:53,936 root INFO Diagnosing user with Acidosis  (excessive acid in the body)
+19:59:53,937 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:01:50,954 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:01:50,955 root INFO Encoding symptom vaginal itching
+20:01:50,999 root INFO Encoding symptom pain or soreness of breast
+20:01:51,86 root INFO Flagged 1 potential symptom matches
+20:01:51,103 root INFO Flagged 3 potential symptom matches
+20:01:51,162 root INFO Diagnosing user with Breast fibroadenoma benign breast lumps
+20:01:51,162 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:02:50,700 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:02:50,700 root INFO Encoding symptom blood in vomit
+20:02:50,739 root INFO Encoding symptom facial droop
+20:02:50,772 root INFO Encoding symptom sneezing
+20:02:50,796 root INFO Encoding symptom sneezing
+20:02:50,811 root INFO Encoding symptom blood in vomit
+20:02:50,839 root INFO Flagged 1 potential symptom matches
+20:02:50,864 root INFO Flagged 0 potential symptom matches
+20:02:50,885 root INFO Flagged 1 potential symptom matches
+20:02:50,901 root INFO Flagged 1 potential symptom matches
+20:02:50,917 root INFO Flagged 1 potential symptom matches
+20:02:50,994 root INFO Diagnosing user with Hemoptysis coughing blood
+20:02:50,994 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:03:10,271 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:03:10,271 root INFO Encoding symptom psychiatric problem
+20:03:10,312 root INFO Flagged 1 potential symptom matches
+20:03:10,375 root INFO Diagnosing user with Puerperal depression depression after giving birth
+20:03:10,376 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:03:37,946 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:03:37,946 root INFO Encoding symptom weight loss
+20:03:37,985 root INFO Encoding symptom sneezing
+20:03:38,2 root INFO Encoding symptom swelling
+20:03:38,27 root INFO Encoding symptom foot swelling
+20:03:38,65 root INFO Flagged 0 potential symptom matches
+20:03:38,81 root INFO Flagged 1 potential symptom matches
+20:03:38,99 root INFO Flagged 2 potential symptom matches
+20:03:38,115 root INFO Flagged 0 potential symptom matches
+20:03:38,189 root INFO Diagnosing user with Facial swelling
+20:03:38,189 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:16:04,447 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+09:16:04,521 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+09:16:04,521 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+09:30:10,599 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:30:10,642 root INFO Encoding symptom shoulder ache
+09:30:11,548 root INFO Flagged 10 potential symptom matches
+09:30:11,821 root INFO Unable to find a diagnosis, the closest match was Sialolithiasis salivary gland stone at 0.31622776601683794
+09:30:11,825 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:30:23,965 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:30:23,966 root INFO Encoding symptom shoulder ache
+09:30:24,20 root INFO Flagged 10 potential symptom matches
+09:30:24,70 root INFO Unable to find a diagnosis, the closest match was Sialolithiasis salivary gland stone at 0.31622776601683794
+09:30:24,71 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:30:49,705 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:30:49,705 root INFO Encoding symptom shoulder pain
+09:30:49,760 root INFO Flagged 10 potential symptom matches
+09:30:49,853 root INFO Unable to find a diagnosis, the closest match was Sialolithiasis salivary gland stone at 0.31622776601683794
+09:30:49,856 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:31:18,860 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:31:18,860 root INFO Encoding symptom shoulder pan
+09:31:18,916 root INFO Flagged 0 potential symptom matches
+09:31:18,975 root INFO Unable to find a diagnosis, the closest match was Cholecystitis inflammation of the gallbladder at 0.0
+09:31:18,975 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:31:30,240 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:31:30,240 root INFO Encoding symptom shoulder ache
+09:31:30,273 root INFO Flagged 10 potential symptom matches
+09:31:30,382 root INFO Unable to find a diagnosis, the closest match was Sialolithiasis salivary gland stone at 0.31622776601683794
+09:31:30,383 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:32:22,306 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:32:22,308 root INFO Encoding symptom muscle spasm
+09:32:22,357 root INFO Flagged 2 potential symptom matches
+09:32:22,435 root INFO Diagnosing user with Vitamin D deficiency
+09:32:22,435 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:32:41,415 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:32:41,415 root INFO Encoding symptom painful gums
+09:32:41,468 root INFO Flagged 2 potential symptom matches
+09:32:41,510 root INFO Diagnosing user with Gingivitis inflammation of the gums
+09:32:41,510 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
