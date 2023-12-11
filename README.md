@@ -12,12 +12,21 @@ Rasa NLP
 spaCy
 ## Training and interacting with the bot
 1.Clone the repository
+
 2.Navigate to the project directory
+
+
 3.Install Rasa
+
+
 4.Train the Rasa model:
 
      rasa train 
-5.Start the Rasa server
+5.Start the Rasa server:
+
+
      rasa run actions.py
 6.Launch the frontend 
+
+
 7.Open your web browser and navigate to http://localhost:your_port to interact with Med-assist AI.
